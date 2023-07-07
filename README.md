@@ -2,7 +2,7 @@
 
 I am Computer Science and Engineering student at TU Delft who is building his portfolio. Currently, I am very interested in maths and algorithms.
 Always interested in tackling problems and working on new project.
-- I am a big time $ \LaTeX $ enjoyer
+- I am a big time LaTeX enjoyer
 - I like cats
 - I enjoy learning new languages
 - Pink is my favorite colour
