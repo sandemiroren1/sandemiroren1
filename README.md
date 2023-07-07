@@ -17,7 +17,7 @@ Frameworks and Libraries: Spring, Numpy
 
 ## Cute picture of a cat
 
-	![Here it is](https://raw.githubusercontent.com/sandemiroren1/sandemiroren1/main/doggo.jpg)
+	![alt text](https://raw.githubusercontent.com/sandemiroren1/sandemiroren1/main/doggo.jpg)
 
 
 
