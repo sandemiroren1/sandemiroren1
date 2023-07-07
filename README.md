@@ -1,16 +1,23 @@
-### Hi there 👋
+# Welcome to my profile :D
 
-<!--
-**sandemiroren1/sandemiroren1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Computer Science and Engineering student at TU Delft who is building his portfolio. Currently, I am very interested in maths and algorithms.
+Always interested in tackling problems and working on new project.
+- I am a big time $ \LaTeX $ enjoyer
+- I like cats
+- I enjoy learning new languages
+- Pink is my favorite colour
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech
+
+Programming Languages: I know Java, Python, JavaScript and C++. Java is by far my strongest language.
+
+Frameworks and Libraries: Spring, Numpy
+
+
+## Cute picture of a cat
+
+	[Here it is](doggo.jpg)
+
+
+
