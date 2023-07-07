@@ -17,7 +17,7 @@ Frameworks and Libraries: Spring, Numpy
 
 ## Cute picture of a cat
 
-	[Here it is](doggo.jpg)
+	[Here it is]([doggo.jpg](https://github.com/sandemiroren1/sandemiroren1/blob/main/doggo.jpg?raw=true)https://github.com/sandemiroren1/sandemiroren1/blob/main/doggo.jpg?raw=true)
 
 
 
